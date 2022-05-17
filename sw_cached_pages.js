@@ -1,13 +1,13 @@
 const cacheName = 'v1';
 
 const cacheAssets = [
-    'index.html',
-    'about.html',
-    '/css/style.css',
-    '/js/main.js',
-    'images/banner.png',
-    'images/red-car.png',
-    'images/white-car.png'
+    '/sample-project/index.html',
+    '/sample-project/about.html',
+    '/sample-project/css/style.css',
+    '/sample-project/js/main.js',
+    '/sample-project/images/banner.png',
+    '/sample-project/images/red-car.png',
+    '/sample-project/images/white-car.png'
 ];
 
 
