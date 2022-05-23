@@ -3,14 +3,14 @@ const cacheDynamic = "site-dynamic-v5"
 
 const cacheAssets = [
     '/',
-    '/sample-project/index.html',
-    '/sample-project/js/main.js',
-    '/sample-project/css/style.css',
-    '/sample-project/fonts/MyriadProRegular.eot',
-    '/sample-project/fonts/MyriadProRegular.woff2',
-    '/sample-project/fonts/MyriadProRegular.woff',
-    '/sample-project/fonts/MyriadProRegular.ttf',
-    '/sample-project/fonts/MyriadProRegular.svg'
+    '/index.html',
+    '/js/main.js',
+    '/css/style.css',
+    '/fonts/MyriadProRegular.eot',
+    '/fonts/MyriadProRegular.woff2',
+    '/fonts/MyriadProRegular.woff',
+    '/fonts/MyriadProRegular.ttf',
+    '/fonts/MyriadProRegular.svg'
 ];
 
 
